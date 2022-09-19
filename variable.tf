@@ -1,7 +1,7 @@
 variable "resourcegroupName" {
     type = string
 }
- variable "locationNames" {
+ variable "location" {
     type = string
  }
  
